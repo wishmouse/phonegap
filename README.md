@@ -56,3 +56,5 @@ Replace `<h1>Apache Cordova</h1>` with `<h1>PhoneGap</h1>`.
 [bithound-img]: https://www.bithound.io/github/phonegap/phonegap-start/badges/score.svg
 [bithound-url]: https://www.bithound.io/github/phonegap/phonegap-start
 
+
+
